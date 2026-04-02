@@ -1,9 +1,13 @@
 # Hey, I'm Skander 👋
 
-Cloud & AI Automation Engineer based in Tunis. I build AWS infrastructure with Terraform and Docker, and wire it all together with n8n pipelines, turning slow manual processes into intelligent workflows.
+DevOps & Cloud Engineer based in Tunis. I build and secure AWS infrastructure
+with Terraform, containerize workloads with Docker, and automate deployments
+through CI/CD pipelines — with cost optimization built in from the start, not
+bolted on at the end.
 
-Always tinkering with something. Right now that's self-hosted n8n, cloud deployments, and making automations smarter with AI.
+Currently deepening my focus on FinOps practices, cloud security hardening,
+and infrastructure observability.
 
-`AWS` `Terraform` `n8n` `Docker` `OpenAI API` `PostgreSQL` `Linux` `Python` `Ansible`
+`AWS` `Terraform` `Docker` `Jenkins` `Python` `Ansible` `Linux` `PostgreSQL` `n8n`
 
 🌐 [www.skander.cc](https://www.skander.cc) · 💼 [LinkedIn](https://linkedin.com/in/skanderbena5) · 📩 baskander5@gmail.com
