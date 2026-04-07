@@ -2,7 +2,7 @@
 
 DevOps & Cloud Engineer · Tunis
 
-I build and secure AWS infrastructure with Terraform, containerize workloads with Docker, and automate deployments through CI/CD pipelines. Cost optimization and security aren't things I add at the end — they're part of how I think about infrastructure from the start.
+I build and secure AWS infrastructure with Terraform, containerize workloads with Docker, and automate deployments through CI/CD pipelines. Cost optimization and security aren't things I add at the end they're part of how I think about infrastructure from the start.
 
 Currently deepening my focus on FinOps practices, cloud security hardening, and infrastructure observability.
 
@@ -30,7 +30,7 @@ Currently deepening my focus on FinOps practices, cloud security hardening, and 
 
 [www.skander.cc](https://www.skander.cc) · [LinkedIn](https://linkedin.com/in/skanderbena5) · baskander5@gmail.com
 
-fun facts : 
-i'm masters in league of legends 😎
-I love techno music 🎧
-I'm a big german cars enthousiast 🏎️
+fun facts :<br>
+I'm masters in league of legends 😎<br>
+I love techno music 🎧<br>
+I'm a german cars enthousiast 🏎️
