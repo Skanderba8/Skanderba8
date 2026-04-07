@@ -29,3 +29,8 @@ Currently deepening my focus on FinOps practices, cloud security hardening, and 
 [![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)](/)
 
 [www.skander.cc](https://www.skander.cc) · [LinkedIn](https://linkedin.com/in/skanderbena5) · baskander5@gmail.com
+
+fun facts : 
+i'm masters in league of legends 😎
+I love techno music 🎧
+I'm a big german cars enthousiast 🏎️
