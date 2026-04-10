@@ -9,11 +9,11 @@ Currently deepening my focus on K8S, FinOps practices, cloud security hardening,
 **Focus areas**
 
 [![DevOps](https://img.shields.io/badge/DevOps-D85A30?style=flat)](/)
+[![CI/CD](https://img.shields.io/badge/CI%2FCD-D85A30?style=flat)](/)
+[![IaC](https://img.shields.io/badge/Infrastructure%20as%20Code-EF9F27?style=flat)](/)
 [![FinOps](https://img.shields.io/badge/FinOps-7B42BC?style=flat)](/)
 [![Cloud Security](https://img.shields.io/badge/Cloud%20Security-1D9E75?style=flat)](/)
 [![Observability](https://img.shields.io/badge/Observability-378ADD?style=flat)](/)
-[![IaC](https://img.shields.io/badge/Infrastructure%20as%20Code-EF9F27?style=flat)](/)
-[![CI/CD](https://img.shields.io/badge/CI%2FCD-D85A30?style=flat)](/)
 
 **Stack**
 
