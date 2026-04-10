@@ -4,7 +4,7 @@ DevOps & Cloud Engineer · Tunis
 
 I build and secure AWS infrastructure with Terraform, containerize workloads with Docker, and automate deployments through CI/CD pipelines. Cost optimization and security aren't things I add at the end they're part of how I think about infrastructure from the start.
 
-Currently deepening my focus on FinOps practices, cloud security hardening, and infrastructure observability.
+Currently deepening my focus on K8S, FinOps practices, cloud security hardening, and infrastructure observability.
 
 **Focus areas**
 
